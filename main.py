@@ -12,3 +12,6 @@ my_frist_car.toyota
 def privet(name):
     print(f'hello {name}')
 
+def third_function():
+    print('Hello world!')
+    

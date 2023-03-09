@@ -14,4 +14,3 @@ def privet(name):
 
 def third_function():
     print('Hello world!')
-    
